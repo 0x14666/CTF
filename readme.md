@@ -10,6 +10,13 @@ To address these limitations, we propose CTF, a novel WF attack comprising three
 
 Experimental evaluations across multiple benchmark datasets reveal that CTF achieves 99.09% accuracy in Closed-World scenarios, showing enhanced robustness against four SOTA WF defense mechanisms.
 
+## System Architecture
+
+<p align="center">
+  <img src="Figures/diag.png" alt="CTF Architecture" width="80%"/>
+</p>
+<p align="center"><em>Figure 1: Architecture of the CTF (Hybrid Multi-scale Contrastive Transformer) for Website Fingerprinting Attack</em></p>
+
 ## Datasets
 
 | Dataset | # of monitored websites | # of instances | Intro |
